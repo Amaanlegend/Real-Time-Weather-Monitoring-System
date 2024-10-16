@@ -35,7 +35,7 @@ This project is a **Real Time Weather Monitoring System** that fetches live weat
 
 - Python 3.8+
 - A valid [OpenWeatherMap API Key](https://home.openweathermap.org/users/sign_up)
-- (Optional) Docker if you prefer running the application in a container.
+- Docker if you prefer running the application in a container.
 
 ### 1. Clone the Repository
 
